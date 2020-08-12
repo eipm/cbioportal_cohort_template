@@ -1,11 +1,11 @@
 # cbioportal_cohort_name_template
 
-<a href="https://docs.cbioportal.org/5.1-data-loading/data-loading/file-formats" alt="cBioPortal Cohort Documentation">
-<img src="https://img.shields.io/badge/click%20for-cBioPortal%20Cohort%20Documentation-green" /></a>
+## Instructions
 
-<a href="https://docs.cbioportal.org/5.1-data-loading/data-loading/file-formats" alt="cBioPortal Cohort Documentation">
-<img src="https://img.shields.io/badge/click%20for-Example%20cBioPortal%20Cohorts-blue" /></a>
+1. Create a folder on the repo root directory and name it with the name of your github project.
+2. Place all cBioPortal cohort data under the newly created folder.
 
-> **_INSTRUCTIONS:_**  
-> 1. Rename cohort_name folder to the name of your github project
-> 2. Place all cBioPortal cohort data under the newly renamed folder.
+## Resources
+
+1. [cBioPortal File Formats](https://docs.cbioportal.org/5.1-data-loading/data-loading/file-formats)
+2. [cBioPortal Example Cohorts](https://github.com/cBioPortal/datahub/tree/master/public)
